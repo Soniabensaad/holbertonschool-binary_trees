@@ -22,5 +22,5 @@ if (tree->left != NULL && tree->right != NULL)
 {
 return (left_is_full && right_is_full);
 }
-return (0); 
+return (0);
 }
